@@ -22,7 +22,7 @@ Estudantes e operadores do Direito, em contexto de aprendizagem. A orientação 
 
 ## Autoria 
 
-[SEU NOME] — Atividade preparatória para a N1 — Inteligência Artificial Jurídica (Aula 04) — Prof. Edson Vaz Lopes — Católica SC. 
+Thaissa — Atividade preparatória para a N1 — Inteligência Artificial Jurídica (Aula 04) — Prof. Edson Vaz Lopes — Católica SC. 
 
   
 
@@ -86,4 +86,4 @@ A IA só podia usar as fontes da pasta apoio/, que reúnem trechos da Lei do Inq
 
 ## Repositório 
 
-[URL DO REPOSITÓRIO NO GITHUB] 
+https://github.com/ThaiDallagnelo/caso_ficticio_locacao.git
